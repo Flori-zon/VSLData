@@ -1,0 +1,720 @@
+v-19/20.4
+
+FREI 21.12.2019-03.01.2020
+FREI 10.02.2020-22.02.2020
+FREI 10.04.2020-18.04.2020
+FREI 22.05.2020
+FREI 20.07.2020-28.08.2020
+
+STUNDE  nr=1	start=07:25	    ende=08:10
+STUNDE	nr=2	start=08:10	    ende=08:55
+STUNDE	nr=3	start=09:15	    ende=10:00
+STUNDE	nr=4	start=10:00     ende=10:45
+STUNDE	nr=5	start=10:55	    ende=11:40
+STUNDE	nr=6	start=12:10	    ende=12:55
+STUNDE	nr=7	start=13:20	    ende=14:05
+STUNDE	nr=8	start=14:10     ende=14:55
+
+FACH	name=Biologie	    	kurz=bio
+FACH	name=Chemie	            kurz=ch
+FACH	name=Deutsch	    	kurz=de
+FACH	name=Englisch	    	kurz=en
+FACH	name=Ethik	            kurz=eth
+FACH	name=Französisch    	kurz=fr
+FACH	name=FÖKL		        kurz=fökl
+FACH	name=Geschichte	    	kurz=ge
+FACH	name=Geografie	    	kurz=geo
+FACH	name=GRW	            kurz=grw
+FACH	name=Informatik	    	kurz=inf
+FACH	name=Kunst	            kurz=ku
+FACH	name=Mathe	            kurz=ma
+FACH	name=Musik	            kurz=mu
+FACH	name=Physik	            kurz=ph
+FACH    name=ProfilK            kurz=pk
+FACH    name=ProfilN            kurz=pn
+FACH	name=Religion	    	kurz=ree
+FACH	name=Religion		    kurz=re
+FACH	name=Spanisch	    	kurz=spa
+FACH	name=Sport	            kurz=spo
+FACH	name=TC                 kurz=tc
+
+LEHRER	name=Frau_Brinkmann	   	kurz=Bri
+LEHRER	name=(Bur)		        kurz=Bur
+LEHRER	name=(Die)		        kurz=Die
+LEHRER	name=(Dra)		        kurz=Dra
+LEHRER	name=(Dur)		        kurz=Dur
+LEHRER	name=(Eng)		        kurz=Eng
+LEHRER	name=(Ehn)		        kurz=Ehn
+LEHRER	name=Herr_Furchner	    kurz=Fch
+LEHRER	name=(Fib)		        kurz=Fib
+LEHRER	name=Herr_Fürst		    kurz=Für
+LEHRER	name=Herr_Groth		    kurz=Gro
+LEHRER	name=Frau_Heiland	    kurz=Hld
+LEHRER	name=(Hei)		        kurz=Hei
+LEHRER	name=(Hrd)		        kurz=Hrd
+LEHRER	name=(Her)		        kurz=Her
+LEHRER	name=(Hlf)		        kurz=Hlf
+LEHRER	name=(Hoy)		        kurz=Hoy
+LEHRER	name=(Hul)		        kurz=Hul
+LEHRER	name=(Jan)		        kurz=Jan
+LEHRER	name=(Jkl)		        kurz=Jkl
+LEHRER	name=(Jäg)		        kurz=Jäg
+LEHRER	name=Frau_Kersten	   	kurz=Ker
+LEHRER	name=(Krs)		        kurz=Krs
+LEHRER	name=(Led)		        kurz=Led
+LEHRER	name=(Lhm)		        kurz=Lhm
+LEHRER	name=Herr_Lindner	   	kurz=Lin
+LEHRER	name=(Mrk)		        kurz=Mrk
+LEHRER	name=Herr_Neumann,_M.   kurz=NeM
+LEHRER	name=Frau_Neumann,_A.	kurz=NmA
+LEHRER	name=(Pre)		        kurz=Pre
+LEHRER	name=(Ran)		        kurz=Ran
+LEHRER	name=(Sei)		        kurz=Sei
+LEHRER	name=(SmA)		        kurz=SmA
+LEHRER	name=(Sco)		        kurz=Sco
+LEHRER	name=(Stz)		        kurz=Stz
+LEHRER	name=Frau_Weber,_K.	    kurz=WbK
+LEHRER	name=Herr_Weiß		    kurz=Wei
+LEHRER	name=(Zir)		        kurz=Zir
+LEHRER	name=(Zmm)		        kurz=Zmm
+LEHRER	name=(Alt)		        kurz=Alt
+LEHRER	name=(Bar)		        kurz=Bar
+LEHRER	name=(Daw)		        kurz=Daw
+LEHRER	name=(Fib)		        kurz=Fib
+LEHRER	name=(Fru)		        kurz=Fru
+LEHRER	name=(Gün)		        kurz=Gün
+LEHRER	name=(Hse)		        kurz=Hse
+LEHRER	name=(Hir)		        kurz=Hir
+LEHRER	name=(Hor)		        kurz=Hor
+LEHRER	name=(Kol)		        kurz=Kol
+LEHRER	name=(Käs)		        kurz=Käs
+LEHRER	name=(Mnh)		        kurz=Mnh
+LEHRER	name=(Miß)		        kurz=Miß
+LEHRER	name=(Sap)		        kurz=Sap
+LEHRER	name=(Sei)		        kurz=Sei
+LEHRER	name=(WeS)		        kurz=WeS
+LEHRER 	name=(Dor)		        kurz=Dor
+LEHRER  name=(Apz)              kurz=Apz
+LEHRER  name=(SiS)              kurz=SiS
+LEHRER 	name=(Kor)		        kurz=Kor
+LEHRER  name=(Sta)              kurz=Sta
+LEHRER  name=(Slz)              kurz=Slz
+LEHRER  name=(Par)              kurz=Par
+
+MODE compact
+
+KLASSE 5/1
+SPO SmA TH1; SPO SmA TH1; EN Sco 108; EN Sco 108; DE Sei 108; DE Sei 108; MA Für 108
+MU Dra 201; MU Dra 201; KU Fib 114; KU Fib 114; DE Sei 108; FÖKL Sei 108
+MA Für 108; MA Für 108; GEO Hoy 405; GEO Hoy 405; SPO SmA TH2; DE Sei 108; GE Stz 108
+TC Mnh 024; TC Mnh 024; ETH Lin 108, RE Daw 111; ETH Lin 108, RE Daw 111; BIO Led 407; BIO Led 407; EN Sco 108
+MA Für 108; MA Für 108; EN Sco 108; EN Sco 108; DE Sei 108
+
+Klasse 5/2
+KU Fib 114; KU Fib 114; MA Apz 110; MA Apz 110; DE Lhm 110; DE Lhm 110;
+BIO Her 407; BIO Her 407; MU Dra 201; MU Dra 201; GE Ker 110; FÖKL Her 110
+TC Mnh 024; TC Mnh 024; EN WbK 110; EN WbK 110; DE Lhm 110; MA Apz 110; MA Apz 110
+SPO SmA TH2; SPO SmA TH2; EN WbK 110; EN WbK 110; MA Apz 110; DE Lhm 110
+GEO Hoy 212; GEO Hoy 212; ETH Lin 110; ETH Lin 110; EN WbK 110; DE Lhm 110; SPO SmA TH1
+
+Klasse 5/3
+MA Kol 111; MA Kol 111; SPO Hir TH2; SPO Hir TH2; DE SiS 111; TC Mnh 024; TC Mnh 024
+DE SiS 111; DE SiS 111; EN Hir 111; EN Hir 111; MA Kol 111; SPO Hir TH2
+ETH Dor 111; ETH Dor 111; MU Dra 201; MU Dra 201; GE Miß 111; FÖKL Kol 111
+BIO Led 407; BIO Led 407; KU Pre 112; KU Pre 112; DE SiS 111; DE SiS 111; EN Hir 111
+GEO Kol 405; GEO Kol 405; EN Hir 111; EN Hir 111; MA Kol 111
+
+KLASSE 5/4
+KU Pre 112; KU Pre 112; GEO Stz 212; GEO Stz 212; DE WeS 101; FÖKL WeS 101
+DE WeS 101; DE WeS 101; MA Fru 101; MA Fru 101; SPO Hir TH2; MU Dra 201
+DE WeS 101; DE WeS 101; EN Sap 101; EN Sap 101; MU Dra 201; TC Mnh 024; TC Mnh 024
+BIO Her 409; BIO Her 409; RE Daw 111, ETH Hrd 101; RE Daw 111, ETH Hrd 101; EN Sap 101; GE WeS 101; MA Fru 101
+SPO Hir TH2; SPO Hir TH2; MA Fru 101; MA Fru 101; EN Sap 101; EN Sap 101
+
+KLASSE 6/1
+SPA Hld 218; SPA Hld 218; GE Krs 218; GE Krs 218; RE Daw 210, ETH Lin 218
+GEO Jkl 212; GEO Jkl 212; EN Hld 218; EN Hld 218; MA Apz 218; MU Jäg 217
+MA Apz 218; MA Apz 218; DE Sei 218; DE Sei 218; SPO Zir TH1; FÖKL Sap 218; EN Hld 218
+SPA Hld 218; SPA Hld 218; DE Sei 218; DE Sei 218; KU Fib 114; PH Eng 309; MA Apz 218
+SPO Zir TH1; SPO Zir TH1; BIO Bur 409; BIO Bur 409; TC Mnh 024; TC Mnh 024
+
+KLASSE 6/2
+DE SiS 219; DE SiS 219; EN Her 219; EN Her 219; MA NeM 219; BIO Bur 407; SPA NmA 219
+SPA NmA 219; SPA NmA 219; GEO Zir 405; GEO Zir 405; FÖKL Zir 219; BIO Bur 409
+SPO Zir TH1; SPO Zir TH1; PH NeM 307; PH NeM 307; KU Fib 114; MU Jäg 217; MA NeM 219
+DE SiS 219; DE SiS 219; EN Her 219; EN Her 219; ETH Lin 219; SPA NmA 219
+TC Mnh 024; TC Mnh 024; GE Bri 219; GE Bri 219; SPO Zir TH2; MA NeM 219; MA NeM 219
+
+KLASSE 6/3
+PH Gro 307; PH Gro 307; SPO Mnh TH1; SPO Mnh TH1; EN Zmm 221; KU Hor 112; SPA Zmm 221
+DE Bri 221; DE Bri 221; SPA Zmm 221; SPA Zmm 211; TC Mnh 024; TC Mnh 024
+BIO Her 407; BIO Her 407; MA Hse 221; MA Hse 221; DE Bri 221; FÖKL Bri 221; EN Zmm 221
+GEO Apz 405; GEO Apz 405; MA Hse 221; MA Hse 221; SPA Zmm 221; SPO Mnh TH1; DE Bri 221
+ETH Dor 221, MU Jäg 217; ETH Dor 221, MU Jäg 217; EN Zmm 221; EN Zmm 221; GE Bri 221; GE Bri 221
+
+KLASSE 6/4
+TC Mnh 024; TC Mnh 024; DE Bri 222; DE Bri 222; RE Daw 210, ETH Hrd 222; MA Fru 222; SPO Dor TH2
+SPO Dor TH1; SPO Dor TH1; BIO Her 407; BIO Her 407; KU Kor 112; EN Hld 222
+FR Die 212; FR Die 212; PH Eng 309; PH Eng 309; MA Fru 222; EN Hld 222; FÖKL Fru 222
+MA Fru 222; MA Fru 222; GEO Apz 212; GEO Apz 212; GE Krs 222; FR Die 222
+DE Bri 222; DE Bri 222; EN Hld 222; EN Hld 222; FR Die 222; GE Krs 222; MU Jäg 217
+
+KLASSE 7/1
+GEO Stz 212; GEO Stz 212; GE Miß 208; GE Miß 208; GRW Pre 208; EN WbK 208; EN WbK 208
+SPA Käs 208; SPA Käs 208; DE Miß 208; DE Miß 208; MU Jäg 217; MA Kol 208
+MA Kol 208; MA Kol 208; ETH Lin 208, RE Sta 210; ETH Lin 208, RE Sta 210; DE Miß 208; INF Ran 417; INF Ran 417
+EN WbK 208; EN WbK 208; BIO Led 407; BIO Led 407; KU Hor 112; DE Miß 208; MA Kol 208
+SPA Käs 208; SPA Käs 208; PH Gro 307; PH Gro 307; CH Jkl 411; SPO Zir TH2; SPO Zir TH2
+
+KLASSE 7/2
+GEO Jkl 405; GEO Jkl 405; EN Hld 210; EN Hld 210; MU Jäg 217; KU Hor 112
+GE Stz 210; GE Stz 210; SPA Käs 210; SPA Käs 210; EN Hld 210; MA Gro 210
+INF Hoy 416; INF Hoy 416; BIO Bur 409; BIO Bur 409; EN Hld 2010; ETH Hrd 210; GRW Pre 210
+SPA Käs 210; SPA Käs 210; DE SiS 210; DE SiS 210; SPO Kol TH2; SPO Kol TH2; MA Gro 210
+MA Gro 210; MA Gro 210; DE SiS 210; DE SiS 210; SPO Kol TH2; SPO Kol TH2; MA Gro 210
+MA Gro 210; MA Gro 210; DE SiS 210; DE SiS 210; PH Gro 307; PH Gro 307; CH Jkl 411
+
+KLASSE 7/3
+DE Lhm 211; DE Lhm 211; FR Die 211; FR Die 211; MA Apz 211; PH Gro 307; PH Gro 307
+INF Für 417; INF Für 417; EN Slz 211; EN Slz 211; FR Die 405; CH Jkl 413
+GE Ker 211; GE Ker 211; RE Sta 210, ETH Hrd 211; RE Sta 210, ETH Hrd 211; MA Apz 211; BIO Bur 409; BIO Bur 409
+SPO Kol TH1; SPO Kol TH1; DE Lhm 211; DE Lhm 211; MU Jäg 217; KU Hor 112; FR Die 405
+MA Apz 211; MA Apz 211; GEO Jkl 405; GEO Jkl 405; GRW Jan 211; EN Slz 211; EN Slz 211
+
+MODE advanced
+
+KLASSE 8/1
+
+PK8G3 Jäg 217, PK8G2 WbK 108, PN8G3 Hse 413, PK8G1 Hor 101, PN8G2 Fru 411, PN8G1 Led 407
+PK8G3 Jäg 217, PK8G2 WbK 108, PN8G3 Hse 413, PK8G1 Hor 101, PN8G2 Fru 411, PN8G1 Led 407
+ETH Lin 114, RE1 Daw 316, RE2 Par 301
+ETH Lin 114, RE1 Daw 316, RE2 Par 301
+SPA Hld 416
+GRW Krs 316
+MA Ran 316;
+
+SPA Hld 114
+SPA Hld 114
+KU Hor 112, INF1 Eng 416, INF2 Hoy 401
+KU Hor 112, INF1 Eng 416, INF2 Hoy 401
+MA Ran 316
+MA Ran 316;
+
+EN Sap 316
+EN Sap 316
+DE Hor 316
+DE Hor 316
+BIO Jan 407
+GEO Hei 405
+CH Jkl 413;
+
+PH Gro 309
+PH Gro 309
+SPO1 Hir TH1, SPO2 SmA TH2
+SPO1 Hir TH1, SPO2 SmA TH2
+MA Ran 316
+EN Sap 316
+MU Jäg 217;
+
+DE Hor 316
+DE Hor 316
+GE Jäg 316
+GE Jäg 316
+SPA Hld 417
+CH Jkl 411;
+
+KLASSE 8/2
+
+PK8G3 Jäg 217, PK8G2 WbK 108, PN8G3 Hse 413, PK8G1 Hor 101, PN8G2 Fru 411, PN8G1 Led 407
+PK8G3 Jäg 217, PK8G2 WbK 108, PN8G3 Hse 413, PK8G1 Hor 101, PN8G2 Fru 411, PN8G1 Led 407
+MU Jäg 217, INF1 Ran 417, INF2 Eng 416
+MU Jäg 217, INF1 Ran 417, INF2 Eng 416
+GRW Krs 318
+SPA Hir 318
+SPA Hir 318;
+
+MA NeM 318
+MA NeM 318
+PH NeM 309
+PH NeM 309
+KU Fib 114
+KU Fib 114
+GEO Stz 212;
+
+ETH Hrd 318
+ETH Hrd 318
+CH Jkl 413
+CH Jkl 413
+EN Sap 318
+SPO1 Hir TH1, SPO2 SmA TH2
+SPO1 Hir TH1, SPO2 SmA TH2;
+
+EN Sap 318
+EN Sap 318
+GE Jäg 318
+GE Jäg 318
+DE Sei 318
+DE Sei 318;
+
+DE Sei 318
+DE Sei 318
+MA NeM 318
+MA NeM 318
+BIO Bur 413
+SPA Hir 318
+SPA Hir 318
+
+KLASSE 8/3
+
+PK8G3 Jäg 217, PK8G2 WbK 108, PN8G3 Hse 413, PK8G1 Hor 101, PN8G2 Fru 411, PN8G1 Led 407
+PK8G3 Jäg 217, PK8G2 WbK 108, PN8G3 Hse 413, PK8G1 Hor 101, PN8G2 Fru 411, PN8G1 Led 407
+MU Jäg 217, INF1 Ran 417, INF2 Eng 416
+MU Jäg 217, INF1 Ran 417, INF2 Eng 416
+SPA Käs 319
+EN Sap 319
+GRW Krs 319;
+
+PH Gro 309
+PH Gro 309
+MA Für 319
+MA Für 319
+DE Ehn 319
+SPA Käs 319;
+
+SPA Käs 319
+SPA Käs 319
+DE Ehn 319
+DE Ehn 319
+BIO Gün 409
+SPO1 Hir TH1, SPO2 SmA TH2
+SPO1 Hir TH1, SPO2 SmA TH2;
+
+ETH Lin 319
+ETH Lin 319
+CH Jkl 411
+CH Jkl 411
+DE Ehn 319
+GEO Hei 405;
+
+GE Krs 319
+GE Krs 319
+EN Sap 319
+EN Sap 319
+MA Für 319
+MA Für 319
+KU Fib 114
+
+KLASSE 8/4
+
+PK8G3 Jäg 217, PK8G2 WbK 108, PN8G3 Hse 413, PK8G1 Hor 101, PN8G2 Fru 411, PN8G1 Led 407
+PK8G3 Jäg 217, PK8G2 WbK 108, PN8G3 Hse 413, PK8G1 Hor 101, PN8G2 Fru 411, PN8G1 Led 407
+ETH Lin 114, RE1 Daw 114, RE2 Par 301
+ETH Lin 114, RE1 Daw 114, RE2 Par 301
+FR Die 114
+FR Die 114
+PH NeM 309;
+
+DE Ehn 301
+DE Ehn 301
+KU Hor 112, INF1 Eng 416, INF2 Hoy 401
+KU Hor 112, INF1 Eng 416, INF2 Hoy 401
+CH Jkl 413
+CH Jkl 413;
+
+DE Ehn 301
+DE Ehn 301
+MA Kol 301
+MA Kol 301
+EN WbK 101
+PH NeM 307
+MU Jäg 217;
+
+GE Krs 301
+GE Krs 301
+SPO1 Hir TH1, SPO2 SmA TH2
+SPO1 Hir TH1, SPO2 SmA TH2
+GEO Hei 405
+CH Jkl 411;
+
+FR Die 301
+FR Die 301
+MA Kol 301
+BIO SmA 409
+EN WbK 301
+EN WbK 301
+
+KLASSE 9/1
+
+GE Wei 118
+GE Wei 118
+EN WbK 118
+EN WbK 118
+BIO Gün 409
+SPA Zmm 118;
+
+MA Hoy 118
+MA Hoy 118
+PH Alt 307
+PH Alt 307
+DE Miß 118
+DE Miß 118;
+
+PN9G1 Gün 409, PK9G1 Bri 112, PK9G3 Dra 201, PN9G2 Alt 309, PN9G3 Jkl 305
+PN9G1 Gün 409, PK9G1 Bri 112, PK9G3 Dra 201, PN9G2 Alt 309, PN9G3 Jkl 305
+CH Gün 411
+CH Gün 411
+MA Hoy 118
+MA Hoy 118
+KU Hor 112;
+
+RE/e Daw 108, ETH Hrd 118
+RE/e Daw 108, ETH Hrd 118
+MU Dra 201, INF1 Eng 416, INF2 Dur 417
+MU Dra 201, INF1 Eng 416, INF2 Dur 417
+GEO Mnh 212
+EN WbK 118
+BIO Gün 409
+DE Miß 118;
+
+SPA Zmm 118
+SPA Zmm 118
+SPO1 Zir TH1, SPO2 Hei TH2
+SPO1 Zir TH1, SPO2 Hei TH2
+GRW Wei 118
+GRW Wei 118
+
+KLASSE 9/2
+
+MA Alt 120
+MA Alt 120
+EN Zmm 120
+EN Zmm 120
+GE Wei 120
+DE Miß 120;
+
+DE Miß 120
+DE Miß 120
+GRW Jan 120
+GRW Jan 120
+ETH Lin 120
+ETH Lin 120;
+
+PN9G1 Gün 409, PK9G1 Bri 112, PK9G3 Dra 201, PN9G2 Alt 309, PN9G3 Jkl 305
+PN9G1 Gün 409, PK9G1 Bri 112, PK9G3 Dra 201, PN9G2 Alt 309, PN9G3 Jkl 305
+SPO1 Hei TH1, SPO2 Zir TH2
+SPO1 Hei TH1, SPO2 Zir TH2
+KU Hor 112
+GE Wei 120
+MA Alt 120;
+
+PH Alt 307
+PH Alt 307
+CH Gün 413
+CH Gün 413
+DE Miß 120
+SPA Zmm 120
+SPA Zmm 120
+GEO Kol 405;
+
+BIO Jan 409
+BIO Jan 409
+MU Dra 201, INF1 Hoy 416, INF2 Dur 417
+MU Dra 201, INF1 Hoy 416, INF2 Dur 417
+EN Zmm 120
+SPA Zmm 120
+MA Alt 120
+
+KLASSE 9/3
+
+BIO Bur 409
+BIO Bur 409
+MA Alt 121
+MA Alt 121
+DE Ehn 121
+GE Ker 121
+GRW Pre 121
+GRW Pre 121;
+
+EN Sap 121
+EN Sap 121
+CH Gün 413
+CH Gün 413
+SPA Käs 121
+GEO Apz 405;
+
+PN9G1 Gün 409, PK9G1 Bri 112, PK9G3 Dra 201, PN9G2 Alt 309, PN9G3 Jkl 305
+PN9G1 Gün 409, PK9G1 Bri 112, PK9G3 Dra 201, PN9G2 Alt 309, PN9G3 Jkl 305
+SPO1 Hei TH1, SPO2 Zir TH2
+SPO1 Hei TH1, SPO2 Zir TH2
+ETH Lin 121
+KU Hor 112
+DE Ehn 121;
+
+DE Ehn 121
+DE Ehn 121
+PH Alt 307
+PH Alt 307
+GE Ker 121
+ETH Lin 121
+EN Sap 121;
+
+MA Alt 121
+MA Alt 121
+MU Dra 201, INF1 Hoy 416, INF2 Dur 417
+MU Dra 201, INF1 Hoy 416, INF2 Dur 417
+SPA Käs 121
+SPA Käs 121
+
+KLASSE 9/4
+
+EN NmA 208
+EN NmA 208
+GRW Jan 112
+GRW Jan 112
+MA Fru 301
+DE SiS 301;
+
+CH Gün 413
+CH Gün 413
+GE Ker 118
+GE Ker 118
+PH Alt 307
+PH Alt 307;
+
+PN9G1 Gün 409, PK9G1 Bri 112, PK9G3 Dra 201, PN9G2 Alt 309, PN9G3 Jkl 305
+PN9G1 Gün 409, PK9G1 Bri 112, PK9G3 Dra 201, PN9G2 Alt 309, PN9G3 Jkl 305
+BIO Jan 407
+BIO Jan 407
+DE SiS 212
+DE SiS 212
+EN NmA 118;
+
+RE/e Daw 108, ETH Hrd 118
+RE/e Daw 108, ETH Hrd 118
+MU Dra 201, INF1 Hoy 416, INF2 Dur 417
+MU Dra 201, INF1 Hoy 416, INF2 Dur 417
+FR Die 208
+MA Fru 108
+KU Hor 112
+GEO Apz 212;
+
+MA Fru 219
+MA Fru 219
+SPO1 Hir TH1, SPO2 SmA TH2
+SPO1 Hir TH1, SPO2 SmA TH2
+DE SiS 112
+FR Die 112
+FR Die 112
+
+KLASSE 10/1
+
+DE Bri 319
+DE Bri 319
+EN Fib 319
+EN Fib 319
+MA Hse 413
+MA Hse 413
+GE Ker 211
+GEO Hei 405;
+
+RE10-13 Daw 222, ETH10-1 Lin 319
+RE10-13 Daw 222, ETH10-1 Lin 319
+SPO Mnh TH1
+SPO Mnh TH1
+INF Dur 417
+INF Dur 417;
+
+KU Fib 114
+EN Fib 114
+SPA Käs 114
+SPA Käs 114
+CH Hse 411
+CH Hse 411
+GEO Hei 405;
+
+DE Bri 221
+DE Bri 221
+GRW Wei 114
+GRW Wei 114
+SPA Käs 118
+MU Dra 201
+PN10G2 Bur 407, PN10G3 Jkl 411, PN10G1 NeM 309, PK10G1 Dra 201, PK10G2 WeS 222
+PN10G2 Bur 407, PN10G3 Jkl 411, PN10G1 NeM 309, PK10G1 Dra 201, PK10G2 WeS 222;
+
+BIO Gün 407
+BIO Gün 407
+MA Hse 411
+MA Hse 411
+PH Alt 309
+PH Alt 309
+GE Ker 319
+
+KLASSE 10/2
+
+EN Sco 318
+EN Sco 318
+MA Hse 411
+MA Hse 411
+GEO Hei 405
+GEO Hei 405
+MU Dra 201
+GE Krs 208;
+
+SPO Zir TH2
+SPO Zir TH2
+ETH Dor 318
+ETH Dor 318
+BIO Gün 407
+BIO Gün 407;
+
+CH Hse 411
+CH Hse 411
+DE SiS 112
+DE SiS 112
+PH Alt 309
+PH Alt 309
+KU Fib 114;
+
+INF Dur 417
+INF Dur 417
+GRW Krs 222
+GRW Krs 222
+EN Sco 301
+SPA Käs 301
+PN10G2 Bur 407, PN10G3 Jkl 411, PN10G1 NeM 309, PK10G1 Dra 201, PK10G2 WeS 222
+PN10G2 Bur 407, PN10G3 Jkl 411, PN10G1 NeM 309, PK10G1 Dra 201, PK10G2 WeS 222;
+
+MA Hse 112
+MA Hse 112
+SPA Käs 112
+SPA Käs 112
+GE Krs 301
+DE SiS 111
+DE SiS 111
+
+KLASSE 10/3
+
+SPO Hei TH2
+SPO Hei TH2
+BIO Gün 409
+BIO Gün 409
+GE Ker 118
+EN Sco 219
+MA Fru 210
+DE Lhm 218;
+
+ETH10-3 Hrd 316, RE10-13 Daw 222
+ETH10-3 Hrd 316, RE10-13 Daw 222
+CH Hse 411
+CH Hse 411
+MA Fru 222
+FR Die 114;
+
+MA Fru 118
+MA Fru 118
+DE Lhm 118
+DE Lhm 118
+GE Ker 405
+KU Fib 114
+GRW Wei 208;
+
+FR Die 316
+FR Die 316
+GEO Hei 405
+GEO Hei 405
+DE Lhm 218
+GRW Wei 218
+PN10G2 Bur 407, PN10G3 Jkl 411, PN10G1 NeM 309, PK10G1 Dra 201, PK10G2 WeS 222
+PN10G2 Bur 407, PN10G3 Jkl 411, PN10G1 NeM 309, PK10G1 Dra 201, PK10G2 WeS 222;
+
+INF Dur 417
+INF Dur 417
+PH Alt 309
+PH Alt 309
+EN Sco 208
+EN Sco 208
+MU Dra 201
+
+KLASSE JG11
+
+en21 Her 222, eth3 Hrd 301, grw2 Jan 316, inf3 Eng 416
+en21 Her 222, eth3 Hrd 301, grw2 Jan 316, inf3 Eng 416
+bio2 Led 407, geo3 Hoy 405, ph1 NeM 309, ph2 Gro 307
+bio2 Led 407, geo3 Hoy 405, ph1 NeM 309, ph2 Gro 307
+inf2 Ran 417, mu2 Dra 201, spo2 SmA TH2, spo4 Dor TH1
+inf2 Ran 417, mu2 Dra 201, spo2 SmA TH2, spo4 Dor TH1
+bio3 Led 407, bio4 Jan 413, ch1 Bur 411, spo3 Zir TH1
+bio3 Led 407, bio4 Jan 413, ch1 Bur 411, spo3 Zir TH1;
+
+bio1 SmA 409, ge3 Jäg 110, grw3 Krs 108
+bio1 SmA 409, ge3 Jäg 110, grw3 Krs 108
+de1 Bri 219, de2 Ehn 222, ma1 Gro 301, ma2 Sco 316
+de1 Bri 219, de2 Ehn 222, ma1 Gro 301, ma2 Sco 316
+grw1 Pre 211, inf4 Hoy 401, ree1 Mrk 318, spo1 Hei TH1
+grw1 Pre 211, inf4 Hoy 401, ree1 Mrk 318, spo1 Hei TH1;
+
+CH1 Bur 413, EN1 WbK 210, GE1 Wei 120, PH1 NeM 307, SPA1 Hld 219
+CH1 Bur 413, EN1 WbK 210, GE1 Wei 120, PH1 NeM 307, SPA1 Hld 219
+en1 Her 219, en2 NmA 318, fr1 Die 212, spa1 Zmm 222
+en1 Her 219, en2 NmA 318, fr1 Die 212, spa1 Zmm 222
+ch2 Jkl 413, eth1 Dor 319, ge2 Stz 219
+ch2 Jkl 413, eth1 Dor 319, ge2 Stz 219
+DE1 Sei 318, DE2 Lhm 319, MA1 Für 212, MA2 Hul 309;
+
+DE1 Sei 110, DE2 Lhm 111, MA1 Für 120, MA2 Hul 211
+DE1 Sei 110, DE2 Lhm 111, MA1 Für 120, MA2 Hul 211
+de1 Bri 319, de2 Ehn 118, ma1 Gro 309, ma2 Sco 208
+de1 Bri 319, de2 Ehn 118, ma1 Gro 309, ma2 Sco 208
+CH1 Bur 411, EN1 WbK 417, GE1 Wei 210, PH1 NeM 309, SPA1 Hld 211
+ge1 Ker 319, geo1 Stz 212, inf1 Ran 416, ku2 Pre 114
+ge1 Ker 319, geo1 Stz 212, inf1 Ran 416, ku2 Pre 114
+en1 Her 108, en2 NmA 211, fr1 Die 218, spa1 Zmm 120;
+
+CH1 Bur 413, EN1 WbK 114, GE1 Wei 120, PH1 NeM 307, SPA1 Hld 218
+CH1 Bur 413, EN1 WbK 114, GE1 Wei 120, PH1 NeM 307, SPA1 Hld 218
+DE1 Sei 121, DE2 Lhm 211, MA1 Für 218, MA2 Hul 208
+DE1 Sei 121, DE2 Lhm 211, MA1 Für 218, MA2 Hul 208
+eth2 Lin 218, geo2 Hoy 218, ku1 Fib 114, mu1 Dra 201
+eth2 Lin 218, geo2 Hoy 218, ku1 Fib 114, mu1 Dra 201
+
+KLASSE JG12
+
+EN1 Zmm 121, fr1 Ehn 110, spa1 Käs 210, spa2 Hir 221
+EN1 Zmm 121, fr1 Ehn 110, spa1 Käs 210, spa2 Hir 221
+de1 Sei 101, de2 Hor 111, ma1 Bar 318, ma2 Lhm 221
+de1 Sei 101, de2 Hor 111, ma1 Bar 318, ma2 Lhm 221
+CH1 Led 411, EN1 Sco 112, EN2 Sap 212, PH1 Eng 309
+bio3 Gün 409, geo1 Hoy 212, grw2 Wei 218
+bio3 Gün 409, geo1 Hoy 212, grw2 Wei 218
+DE1 WeS 114, DE2 Miß 111, MA1 Für 319, MA2 Fru 211;
+
+geo3 Kol 405, inf3 Eng 416, ku2 Hor 112, ph2 Alt 307
+geo3 Kol 405, inf3 Eng 416, ku2 Hor 112, ph2 Alt 307
+eth2 Lin 121, inf2 Dur 417, ree1 Daw 110
+eth2 Lin 121, inf2 Dur 417, ree1 Daw 110
+CH1 Led 411, EN1 Sco 101, EN2 Sap 221, PH1 Eng 309
+CH1 Led 411, EN1 Sco 101, EN2 Sap 221, PH1 Eng 309;
+
+de1 Sei 221, de2 Hor 110, ma1 Bar 222, ma2 Lhm 121
+de1 Sei 221, de2 Hor 110, ma1 Bar 222, ma2 Lhm 121
+DE1 WeS 108, DE2 Miß 111, MA1 Für 120, MA2 Fru 121
+DE1 WeS 108, DE2 Miß 111, MA1 Für 120, MA2 Fru 121
+en1 Zmm 120, fr1 Ehn 108, spa1 Käs 218, spa2 Hir 316
+eth1 Lin 301, ge2 Ker 316, grw3 Krs 101
+eth1 Lin 301, ge2 Ker 316, grw3 Krs 101;
+
+ge1 Ker 101, ku1 Fib 114, mu1 Jäg 217
+ge1 Ker 101, ku1 Fib 114, mu1 Jäg 217
+DE1 WeS 121, DE2 Miß 217, MA1 Für 301, MA2 Fru 316
+DE1 WeS 121, DE2 Miß 217, MA1 Für 301, MA2 Fru 316
+bio1 SmA 409, ch2 Hse 413, inf1 Für 401, ph1 Alt 307
+bio1 SmA 409, ch2 Hse 413, inf1 Für 401, ph1 Alt 307
+ch1 Hse 413, spo1 Hei TH1, spo2 Mnh TH2
+ch1 Hse 413, spo1 Hei TH1, spo2 Mnh TH2;
+
+CH1 Led 411, EN1 Sco 101, EN2 Sap 110, PH1 Eng 309
+CH1 Led 411, EN1 Sco 101, EN2 Sap 110, PH1 Eng 309
+bio2 Gün 407, ge3 Krs 212, grw1 Wei 120
+bio2 Gün 407, ge3 Krs 212, grw1 Wei 120
+en21 Daw 210, geo2 Hei 405, mu2 Jäg 217, spo3 Ker TH1
+en21 Daw 210, geo2 Hei 405, mu2 Jäg 217, spo3 Ker TH1
