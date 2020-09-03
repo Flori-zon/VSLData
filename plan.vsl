@@ -1,4 +1,4 @@
-v-20/21-init4
+v-20/21-init5
 
 STUNDE  nr=1	start=07:25	ende=08:10
 STUNDE	nr=2	start=08:10	ende=08:55
@@ -97,6 +97,7 @@ LEHRER  name=(Sch)              	kurz=Sch
 LEHRER  name=(Pfl)              	kurz=Pfl
 LEHRER  name=(Bag)              	kurz=Bag
 LEHRER  name=(Pet)              	kurz=Pet
+LEHRER  name=(Hüb)              	kurz=Hüb
 
 MODE compact
 
@@ -131,7 +132,7 @@ EN Sco 108 x2; DE Sei 108 x2; GEO Pet 212 x2; MU Wol 114
 KLASSE 6/2
 GEO Pet 212 x2; DE Lhm 110 x2; SPO SmA TH2; FöL Lhm 110
 EN WbK 110 x2; MA Apz 110 x2; SPA Käs 110; KU Käs 112
-BIO Her 409 x2; SPO SmA TH2 x2; GE Ker 110; COPY; MU Aug 201
+BIO Her 409 x2; SPO SmA TH2 x2; GE Ker 110 x2; MU Aug 201
 SPA Käs 110 x2; PH Alt 307 x2; TC Mnh 024 x2
 DE Lhm 110 x2; EN WbK 212 x2; MA Apz 110 x2; ETH Pet 110
 
