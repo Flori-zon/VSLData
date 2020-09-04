@@ -1,4 +1,4 @@
-20/21-init18
+20/21-init19
 
 STUNDE  nr=1	start=07:25	ende=08:10
 STUNDE	nr=2	start=08:10	ende=08:55
@@ -525,6 +525,6 @@ en1 Her 111, en2 WbK 405, fr1 Die 121, spa1 Zmm 417
 ge1 Ker 212, geo1 Apz 405, inf1 Dur 417, ku2 Hor 112 x2;
 
 bio2 Led 407, geo3 Kol 405, ph1 NeM 307, ph2 Gro 309 x2
-eth2 Lin 210, geo2 Hoy 405, ku1 Hor 112, mu2 Aug 201 x2
+eth2 Lin 210, geo2 Hoy 405, ku1 Hor 112, mu1 Aug 201 x2
 grw1 Wei 218, inf4 Für 416, ree1 Mrk 222, spo1 Mnh TH2 x2
 DE1 Sei 111, DE2 Lhm 118, MA1 Für 301, MA2 Fru 222;
