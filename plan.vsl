@@ -1,4 +1,4 @@
-20/21-init19
+20/21-init20
 
 STUNDE  nr=1	start=07:25	ende=08:10
 STUNDE	nr=2	start=08:10	ende=08:55
@@ -481,12 +481,12 @@ KLASSE JG11
 
 CH1 Hse 411, EN1 Sco 108, GE1 Ker 110 x2
 en1 Sap 112, en2 Hir 417, fr1 Die 208, spa1 Käs 111 x2
-ge2 Miß 221, geo Zir 405, ree1 Weg 120 x2
-ch1 Hse 411, ge1 Miß 211, inf Eng 417 x2;
+ge2 Miß 221, geo2 Zir 405, ree1 Weg 120 x2
+ch1 Hse 411, ge1 Miß 211, inf1 Eng 417 x2;
 
 bio2 Gün 409, grw3 Krs 114, ph1 Sch 307 x2
 de1 Sei 101, de2 Slz 222, ma1 Bar 319, ma2 Lhm 301 x2
-eth1 Lin 101, eth3 Pet 111, inf4 Dur 417, ku Wol 114 x2;
+eth1 Lin 101, eth3 Pet 111, inf4 Dur 417, ku1 Wol 114 x2;
 
 bio3 Gün 407, inf3 Für 416, ph2 Alt 307 x2
 DE1 SiS 218, DE2 WeS 120, MA1 Bag 221, MA2 Hoy 301 x2
@@ -517,7 +517,7 @@ DE1 Sei 407, DE2 Lhm 319, MA1 Für 218, MA2 Fru 301 x2;
 inf2 Dur 417, mu2 Aug 201, spo2 SmA TH2, spo4 Dor TH1 x2
 de1 Bri 114, de2 Ehn 201, ma1 Gro 208, ma2 Sco 101 x2
 en1 Her 111, en2 WbK 212, fr1 Die 121, spa1 Zmm 120 x2
-CH1 Bur 413, EN1 WbK 417, GE1 Wei 218, PH1 NeM 309, SPA Hld 211;
+CH1 Bur 413, EN1 WbK 417, GE1 Wei 218, PH1 NeM 309, SPA1 Hld 211;
 
 bio1 SmA 409, ge3 Jäg 210, grw3 Krs 417 x2
 DE1 Sei 101, DE2 Lhm 118, MA1 Für 319, MA2 Fru 222 x2
