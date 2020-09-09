@@ -77,7 +77,7 @@ LEHRER	name=Herr_Lindner	   	kurz=Lin
 LEHRER	name=(Miß)		        kurz=Miß
 LEHRER	name=(Mnh)		        kurz=Mnh
 LEHRER	name=(Mrk)		        kurz=Mrk
-LEHRER	name=(NeM)           	  kurz=NeM
+LEHRER	name=(NeM)           	      kurz=NeM
 LEHRER	name=Frau_Neumann    		kurz=NmA
 LEHRER  name=(Par)              	kurz=Par
 LEHRER  name=(Pet)              	kurz=Pet
