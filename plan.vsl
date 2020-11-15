@@ -1,4 +1,4 @@
-20/21-v3
+20/21-v4
 
 FREI 19.10.2020-31.10.2020
 FREI 21.12.2020-22.12.2020
@@ -48,7 +48,7 @@ LEHRER	name=Frau_Brinkmann	   	kurz=Bri
 LEHRER	name=(Bur)		        kurz=Bur
 LEHRER	name=(Die)		        kurz=Die
 LEHRER	name=(Daw)		        kurz=Daw
-LEHRER 	name=Dorman		        kurz=Dor
+LEHRER 	name=Frau_Dorman		      kurz=Dor
 LEHRER	name=(Dur)		        kurz=Dur
 LEHRER	name=(Eng)		        kurz=Eng
 LEHRER	name=(Ehn)		        kurz=Ehn
@@ -112,7 +112,7 @@ MODE compact
 KLASSE 5/1
 DE Sch 118 x2; GEO Mnh 212 x2; MA Fru 118; EN Zmm 118
 EN Zmm 118 x2; MA Fru 118 x2; FöL Mnh 118; DE Sch 118
-DE Sch 118 x2; KU Hrd 112 x2; MU Jäg 217; SPO Mnh TH1
+DE Sch 118 x2; KU Hrd 112 x2; MU Jäg 217; SPO Mnh TH1; MA Fru 118
 MA Fru 118 x2; SPO Mnh TH1 x2; GE Ker 118; REe Pfl 108, ETH Hrd 118
 TC Mnh 024 x2; BIO Led 407 x2; En Zmm 118 x2
 
