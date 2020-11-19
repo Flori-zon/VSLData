@@ -10,7 +10,7 @@ Information für die zukünftige Betreibung der App <br>
 <br>
 Ab kommendem Schuljahr 2021/2022 wird der Zugriff auf die Vertretungspläne von Lernsax (standardmäßig mein Login) nicht mehr standartmäßig funktionieren, da ich dann nicht mehr an der Schule bin. Stattdessen müssen Benutzer dann ihre Anmeldedaten selbst eingeben, wenn sie weiterhin Vertretungspläne herunterladen möchten. Diese Funktion existiert bereits in unter den Einstellungen im Bereich Downloads. Ich empfehle, diese schon vorsorglich einzutragen. <br>
 Allerdings wäre es hilfreich, wenn sich jemand aus der jetzigen Klassenstufe 5-11 dazu bereiterklären würde, seine Anmeldedaten für den allgemeinen Nutzen bereitzustellen. (Es werden dabei wie bisher keinerlei fremde Zugriffe auf das Profil möglich sein) Dafür könnt ihr mich über meine Kontaktdaten anschreiben. <br>
-Den Schulplan für das nächste Jahr werde ich höchstwahrscheinlich erhalten, damit kann die App als Ganzes auch weiterhin für alle Schüler betrieben werden. <br>
+Den Schulplan für das nächste Jahr werde ich höchstwahrscheinlich noch erhalten, damit kann die App als Ganzes auch weiterhin für alle Schüler betrieben werden. <br>
 <br>
 Discord-Server für die Schule <br>
 <br>
