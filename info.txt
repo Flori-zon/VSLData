@@ -2,7 +2,7 @@ Dieser Abschnitt wird in Zukunft mit aktuellen Informationen für diese App gef�
 <br>
 <b>Version 1.2.10</b> <br>
 - Die Notizen wurden umgestaltet, Titel der Notizen sind nun ein separater großer Text <br>
-- Suche zeigt beim Start nur den eigenen Stundenplan an, dies ist ein optionales Suchkriterium <br>
+- Suche bekommt eigenen Stundenplan als Option <br>
 - Online-Informationen hinzugefügt <br>
 - Dark Mode ist standardmäßig eingestellt <br>
 <br>
