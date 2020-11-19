@@ -1,1 +1,18 @@
-sample text
+Über die Funktion für aktuelle Informationen
+Dieser Abschnitt wird in Zukunft mit aktuellen Informationen für diese App gefüllt werden. Dieser Text wird wie die Schulpläne über meine Github-Dokumente in die App geladen.
+
+Version 1.2.10
+- Die Notizen wurden umgestaltet, Titel der Notizen sind nun ein separater großer Text
+- Suche zeigt beim Start nur den eigenen Stundenplan an, dies ist ein optionales Suchkriterium
+- aktuelle Informationen hinzugefügt
+- Dark Mode ist standardmäßig eingestellt
+
+Information für die zukünftige Betreibung der App
+
+Ab kommendem Schuljahr 2021/2022 wird der Zugriff auf die Vertretungspläne von Lernsax (standardmäßig mein Login) nicht mehr standartmäßig funktionieren, da ich dann nicht mehr an der Schule bin. Stattdessen müssen Benutzer dann ihre Anmeldedaten selbst eingeben, wenn sie weiterhin Vertretungspläne herunterladen möchten. Diese Funktion existiert bereits in unter den Einstellungen im Bereich Downloads. Ich empfehle, diese schon vorsorglich einzutragen.
+Allerdings wäre es hilfreich, wenn sich jemand aus der jetzigen Klassenstufe 5-11 dazu bereiterklären würde, seine Anmeldedaten für den allgemeinen Nutzen bereitzustellen. (Es werden dabei wie bisher keinerlei fremde Zugriffe auf das Profil möglich sein) Dafür könnt ihr mich über meine Kontaktdaten anschreiben.
+Den Schulplan für das nächste Jahr werde ich höchstwahrscheinlich erhalten, damit kann die App als Ganzes auch weiterhin für alle Schüler betrieben werden.
+
+Discord-Server für die Schule
+
+Unter der kompetenten Führung unseres Schulkameraden Paul aus der 12 haben wir die Digitalisierung dieser Schule ein weiteres Stück voran getrieben. Unser brandneuer (inoffizieller) Schulserver auf Discord kann momentan noch einige Mitglieder benötigen. Ein Link für den Beitritt ist unter den Kontaktdaten zu finden.
