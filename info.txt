@@ -1,10 +1,9 @@
-Über die Funktion für aktuelle Informationen <br>
 Dieser Abschnitt wird in Zukunft mit aktuellen Informationen für diese App gefüllt werden. Dieser Text wird wie die Schulpläne über meine Github-Dokumente in die App geladen. <br>
 <br>
 Version 1.2.10 <br>
 - Die Notizen wurden umgestaltet, Titel der Notizen sind nun ein separater großer Text <br>
 - Suche zeigt beim Start nur den eigenen Stundenplan an, dies ist ein optionales Suchkriterium <br>
-- aktuelle Informationen hinzugefügt <br>
+- Online-Informationen hinzugefügt <br>
 - Dark Mode ist standardmäßig eingestellt <br>
 <br>
 Information für die zukünftige Betreibung der App <br>
