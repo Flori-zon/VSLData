@@ -103,23 +103,23 @@ LEHRER	name=(Zmm)		        kurz=Zmm
 
 KLASSE 10/1
 - - -
-EnA WbK 111, MaB Hoy 208:
-MaA Hoy 111, EnB WbK 208:
+En_A WbK 111, Ma_B Hoy 208:
+Ma_A Hoy 111, En_B WbK 208:
 
 KLASSE 10/2
 - - -
-EnA Zmm 120, MaB Alt 121:
-MaA Alt 120, EnB Zmm 121:
+En_A Zmm 120, Ma_B Alt 121:
+Ma_A Alt 120, En_B Zmm 121:
 
 KLASSE 10/3
 - - 
-EnA Sap 201, MaB Alt 221: 
-MaA Alt 201, EnB Sap 221:
+En_A Sap 201, Ma_B Alt 221: 
+Ma_A Alt 201, En_B Sap 221:
 
 KLASSE 10/4
 - -
-MaA Fru 319, EnB WbK 301:
-EnA Wbk 319, MaB Fru 301:
+Ma_A Fru 319, En_B WbK 301:
+En_A Wbk 319, Ma_B Fru 301:
 
 
 KLASSE JG11
