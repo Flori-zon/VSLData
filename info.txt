@@ -1,17 +1,6 @@
-Dieser Abschnitt wird in Zukunft mit aktuellen Informationen für diese App gefüllt werden. Dieser Text wird wie die Schulpläne über meine Github-Dokumente in die App geladen. <br>
+<b>24.02.2021</b>
 <br>
-<b>Version 1.2.10</b> <br>
-- Die Notizen wurden umgestaltet, Titel der Notizen sind nun ein separater großer Text <br>
-- Suche bekommt eigenen Stundenplan als Option <br>
-- Online-Informationen hinzugefügt <br>
-- Dark Mode ist standardmäßig eingestellt <br>
+In der folgenden Schulzeit mit vergleichbaren Corona-Maßnahmen werden die Termine der Klassenstufen 11 und 12 wöchentlich aktualisiert.
+Es wird empfohlen, die Kurse im Stundenplan wöchentlich abzugleichen, um alle Termine zu erfassen. 
 <br>
-<b>Information für die zukünftige Betreibung der App</b> <br>
-<br>
-Ab kommendem Schuljahr 2021/2022 wird der Zugriff auf die Vertretungspläne von Lernsax (standardmäßig mein Login) nicht mehr standartmäßig funktionieren, da ich dann nicht mehr an der Schule bin. Stattdessen müssen Benutzer dann ihre Anmeldedaten selbst eingeben, wenn sie weiterhin Vertretungspläne herunterladen möchten. Diese Funktion existiert bereits in unter den Einstellungen im Bereich Downloads. Ich empfehle, diese schon vorsorglich einzutragen. <br>
-Allerdings wäre es hilfreich, wenn sich jemand aus der jetzigen Klassenstufe 5-11 dazu bereiterklären würde, seine Anmeldedaten für den allgemeinen Nutzen bereitzustellen. (Es werden dabei wie bisher keinerlei fremde Zugriffe auf das Profil möglich sein) Dafür könnt ihr mich über meine Kontaktdaten anschreiben. <br>
-Den Schulplan für das nächste Jahr werde ich höchstwahrscheinlich noch erhalten, damit kann die App als Ganzes auch weiterhin für alle Schüler betrieben werden. <br>
-<br>
-<b>Discord-Server für die Schule</b> <br>
-<br>
-Unter der kompetenten Führung unseres Schulkameraden Paul aus der 12 haben wir die Digitalisierung dieser Schule ein weiteres Stück voran getrieben. Unser brandneuer (inoffizieller) Schulserver auf Discord kann momentan noch einige Mitglieder benötigen. Ein Link für den Beitritt ist unter den Kontaktdaten zu finden.
+Außerdem müssen vorraussichtlich für das folgende Jahr eigene Lernsax - Zugangsdaten für die Nutzung der Vertretungsplanfunktion verwendet werden.
