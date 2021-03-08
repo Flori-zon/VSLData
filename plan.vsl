@@ -1,13 +1,13 @@
-20/21C-w2v1
+20/21C-w2v2
 
 STUNDE  nr=1	start=07:25	ende=08:10
 STUNDE	nr=2	start=08:10	ende=08:55
 STUNDE	nr=3	start=09:15	ende=10:00
 STUNDE	nr=4	start=10:00	ende=10:45
-STUNDE	nr=5	start=11:05	ende=11:50
-STUNDE	nr=6	start=11:50	ende=12:35
-STUNDE	nr=7	start=13:00	ende=13:45
-STUNDE	nr=8	start=13:45	ende=14:30
+STUNDE	nr=5	start=10:55	ende=11:40
+STUNDE	nr=6	start=12:10	ende=12:55
+STUNDE	nr=7	start=13:05	ende=13:50
+STUNDE	nr=8	start=13:55	ende=14:40
 
 FACH	name=Biologie	    kurz=bio
 FACH	name=Chemie	        kurz=ch
@@ -167,7 +167,7 @@ KLASSE JG12A
 CH1 Bur 413, PH1 NeM 309, EN1 WbK MZR, GE1 Wei 114, SPA1 Hld 211:
 CH1 Bur 413, PH1 NeM 309, EN1 WbK MZR, GE1 Wei 114, SPA1 Hld 211:
 DE1 Sei 101, DE2 Lhm 211, MA1 Für 319, MA2 Fru 222:
-ma1 Gro 318, ma2 Sco 316, de1 Bri 219, de2 Ehn 222:
+ma1 Gro 318, ma2 Sco 316, de1 Bri 219, de2 Ehn 221:
 - -
 ku1 Hor 112, inf3 Eng 416:
 ge1 Ker 11, grw3 Krs 114, bio4 Jan 409, ku2 Hor 114:
@@ -181,7 +181,7 @@ ch1 Bur 411, eth2 Lin 301, fr1 Die 212, ree1 Mrk 111:
 KLASSE JG12B
 CH1 Bur 413, PH1 NeM 309, EN1 WbK MZR, GE1 Wei 114, SPA1 Hld 211:
 CH1 Bur 413, PH1 NeM 309, EN1 WbK MZR, GE1 Wei 114, SPA1 Hld 211:
-ma1 Gro 318, ma2 Sco 316, de1 Bri 219, de2 Ehn 222:
+ma1 Gro 318, ma2 Sco 316, de1 Bri 219, de2 Ehn 221:
 DE1 Sei 101, DE2 Lhm 211, MA1 Für 319, MA2 Fru 222:
 - -
 ku1 Hor 112, inf3 Eng 416:
