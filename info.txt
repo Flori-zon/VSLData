@@ -1,6 +1,6 @@
-<b>08.03.2021</b>
+<b>16.03.2021</b>
 <br>
-Die Unterrichtspläne aller präsenter Klassenstufen werden weiterhin (soweit möglich) wöchentlich abgetragen, damit VSL Schulplanfür mich und euch nützlich und aktuell bleibt. Es ist unbedigt notwendig, am Start der neuen Woche den Stundenplan insbesondere gewählte Kurse abzugleichen.
+Die App wird mit dem Zeitpunkt zum Update 1.3.0 wieder vollwertig verwendbar werden. Vieles wurde umgestaltet und generell vereinfacht. Es gibt einige weitere bedeutende, meist technische Änderungen. Ich hoffe, alles funktioniert weiterhin wie geplant.
 <br>
 Außerdem müssen vorraussichtlich für das folgende Jahr eigene Lernsax - Zugangsdaten für die Nutzung der Vertretungsplanfunktion verwendet werden.
 <br>
