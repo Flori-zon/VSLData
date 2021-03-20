@@ -1,4 +1,4 @@
-20/21-v4
+20/21-v5
 
 STUNDE nr=1 start=07:25 ende=08:10
 STUNDE nr=2 start=08:10 ende=08:55
@@ -9,29 +9,28 @@ STUNDE nr=6 start=12:10 ende=12:55
 STUNDE nr=7 start=13:20 ende=14:05
 STUNDE nr=8 start=14:10 ende=14:55
 
-FACH name=Biologie    kurz=bio
-FACH name=Chemie      kurz=ch
-FACH name=Deutsch     kurz=de
-FACH name=Englisch    kurz=en
-FACH name=Ethik       kurz=eth
-FACH name=Französisch kurz=fr
-FACH name=FöL         kurz=föl
-FACH name=Geschichte  kurz=ge
-FACH name=Geografie   kurz=geo
-FACH name=GRW         kurz=grw
-FACH name=Informatik  kurz=inf
-FACH name=Kunst       kurz=ku
-FACH name=Mathe       kurz=ma
-FACH name=Musik       kurz=mu
-FACH name=Physik      kurz=ph
-FACH name=Profil      kurz=p
-FACH name=ProfilN     kurz=pn
-FACH name=ProfilK     kurz=pk
-FACH name=Religion    kurz=ree
-FACH name=Religion    kurz=re
-FACH name=Spanisch    kurz=spa
-FACH name=Sport       kurz=spo
-FACH name=TC          kurz=tc
+FACH kurz=bio name=Biologie
+FACH kurz=ch  name=Chemie
+FACH kurz=de  name=Deutsch
+FACH kurz=en  name=Englisch
+FACH kurz=eth name=Ethik
+FACH kurz=fr  name=Französisch
+FACH kurz=föl name=FöL
+FACH kurz=ge  name=Geschichte
+FACH kurz=geo name=Geografie
+FACH kurz=grw name=GRW
+FACH kurz=inf name=Informatik
+FACH kurz=ku  name=Kunst
+FACH kurz=ma  name=Mathe
+FACH kurz=mu  name=Musik
+FACH kurz=ph  name=Physik
+FACH kurz=p   name=Profil
+FACH kurz=pn  name=ProfilN
+FACH kurz=pk  name=ProfilK
+FACH kurz=ree name=Religion
+FACH kurz=spa name=Spanisch
+FACH kurz=spo name=Sport
+FACH kurz=tc  name=TC
 
 LEHRER kurz=Alt name=(Alt)
 LEHRER kurz=Apz name=(Apz)
@@ -57,6 +56,7 @@ LEHRER kurz=Her name=(Her)
 LEHRER kurz=Hir name=(Hir)
 LEHRER kurz=Hld name=Frau_Heiland
 LEHRER kurz=Hlf name=(Hlf)
+LEHRER kurz=Hop name=(Hop)
 LEHRER kurz=Hor name=(Hor)
 LEHRER kurz=Hoy name=(Hoy)
 LEHRER kurz=Hul name=(Hul)
@@ -79,6 +79,7 @@ LEHRER kurz=Mnh name=(Mnh)
 LEHRER kurz=Mrk name=(Mrk)
 LEHRER kurz=NeM name=(NeM)
 LEHRER kurz=NmA name=Frau_Neumann
+LEHRER kurz=Och name=(Och)
 LEHRER kurz=Par name=(Par)
 LEHRER kurz=Pet name=(Pet)
 LEHRER kurz=Pfl name=(Pfl)
@@ -127,91 +128,91 @@ MU Aug 201: SPO Hüb TH1: GEO Die 114:
 
 KLASSE 6/1
 
-BIO Led 409: SPO SmA TH1: TC Mnh 024: -
+BIO Led 409: SPO SmA TH1: DE Sei 108: -
 MA Für 108: SPA Hüb 108: GE Wei 108: -
-DE Sei 108: MA Für 108: FöL Sei 108. - MU Aug 201. -
-PH Alt 307: EN Sco 108: REe Pfl 110, ETH Lin 108. SPO SmA TH1. SPA Hüb 108. -
+TC Mnh 024: MA Für 108: FöL Sei 108. MU Aug 201. -
+PH Alt 307: EN Sco 108: REe Hop 407, ETH Lin 108. SPO SmA TH1. SPA Hüb 108. -
 EN Sco 108: DE Sei 108: GEO Pet 212: MU Wol 114.
 
 KLASSE 6/2
 
-GEO Pet 212: DE Lhm 110: SPO SmA TH2. FöL Lhm 110. -
-EN WbK 110: MA Apz 110: SPA Käs 110. KU Käs 112. -
-BIO Her 409: SPO SmA TH2: GE Ker 110: MU Aug 201. -
-SPA Käs 110: PH Alt 307: TC Mnh 024: -
-DE Lhm 110: EN WbK 212: MA Apz 110: ETH Pet 110.
+GEO Pet 212: DE Lhm 110: SPO SmA TH2. -
+EN WbK 110: GE Ker 110: SPA Käs 110. KU Käs 112. -
+MA Apz 210: PH Alt 307: MU Aug 201. FöL Lhm 108. SPO SmA TH1. -
+DE Lhm 110: SPA Käs 110: ETH Pet 110. TC Mnh 024: -
+BIO Her 409: EN WbK 117: MA Apz 110:
 
 KLASSE 6/3
 
-GE Miß 111: GEO Kol 405: DE SiS 111: -
-TC Mnh 024: EN Hir 111: SPO Hir TH2. Föl Kol 110. -
-MA Kol 111: SPA Käs 111: PH Sch 309: SPO Hir TH2. -
-DE SiS 111: MA Kol 111: BIO Led 409: -
-ETH Dor 101, KU Käs 114: EN Hir 111: SPA Käs 111. MU Aug 201. SPO Hir TH2.
+MA Kol 111: GEO Kol 405: BIO Led 407: -
+TC Mnh 024: KU Käs 112, ETH Hrd 111: SPO Hir TH2: -
+GE Miß 111: EN Hir 111: PH Sch 309: SPA Käs 111. -
+DE SiS 111: MA Kol 111: SPA Käs 217. FöL Kol 111. -
+EN Hir 111: DE SiS 111: SPO Hir TH1. MU Aug 201. SPA Käs 111.
 
 KLASSE 6/4
 
-TC Mnh 024: GEO Pet 120: EN Sap 101: FR Ehn 101. -
-MA Fru 101: BIO Her 407: MU Aug 201. SPO Hir TH2. -
-EN Sap 101: PH Sch 309: DE WeS 101: -
-FR Ehn 101: SPO Hir TH1: REe Pfl 110, ETH Hrd 101. DE WeS 101. -
-MA Fru 101: GE WeS 101: KU Hor 112. DE WeS 101. FöL WeS 101.
+TC Mnh 024: MA Fru 101: EN Sap 101: FR Ehn 101. -
+MA Fru 101: BIO Her 407: MU Aug 201. -
+EN Sap 101: PH Sch 309: DE WeS 101: SPO Hir TH2. -
+FR Ehn 101: SPO Hir TH1: REe Pfl 110, ETH Hop 407. FöL WeS 101. -
+GEO Pet 212: GE WeS 101: KU Hor 112. DE WeS 101:
 
 KLASSE 7/1
 
-REe Weg 219, ETH Lin 218: PH Eng 309: SPA Hld 218:-
-DE Sei 218: GE Krs 218: SPO Zir TH1: -
-MA Apz 218: EN Hld 118: KU Ehn 114, INF1 Eng 416, INF2 Hoy 401: MU Jäg 217. -
+REe Weg 201, ETH Lin 218: PH Eng 309: SPA Hld 218: MU Jäg 217. -
+DE Sei 218: GE Krs 218: MA Och 121: -
+MA Och 218: SPO Zir TH1: KU Ehn 114, INF1 Eng 416, INF2 Hoy 401: -
 EN Hld 218: SPA Hld 218: DE Sei 218: GRW Krs 218. -
-MA Apz 218: BIO Bur 409: GEO Jkl 405: CH Jkl 413.
+EN Hld 101: BIO Bur 409: GEO Jkl 405: CH Jkl 413.
 
 KLASSE 7/2
 
-GEO Zir 405: MA NeM 219: MU Jäg 217. CH Jkl 413. SPA Hld 219. -
+DE SiS 219: MA NeM 219: MU Jäg 217. CH Jkl 413. SPA Hld 219. -
 SPA Hld 219: PH Bag 307: EN Her 219: -
-GE Bri 219: MA NeM 219: DE SiS 219: KU Wol 114. -
-SPO Zir TH2: ETH Lin 219: GRW Jan 219. INF Eng 416: -
-BIO Bur 409: EN Her 219: SPA Hld 219. DE SiS 219:
+GEO Zir 405: MA NeM 219: DE SiS 219: KU Wol 114. -
+SPO Zir TH2: BIO Bur 407: GRW Jan 219. INF Eng 416: -
+ETH Lin 219: GE Bri 219: EN Her 219. SPA Hld 219:
 
 KLASSE 7/3
 
-DE Bri 221: SPA Zmm 211: KU Hor 112. MU Jäg 217. EN Zmm 221. -
-SPO Hüb TH1: MA Hse 221: ETH Dor 221: -
+DE Bri 221: SPA Zmm 211: KU Hor 112. EN Zmm 110: -
+SPO Hüb TH1: ETH Lin 221: MA Hse 221: -
 EN Zmm 211: BIO Her 409: CH Jkl 413. DE Bri 221: -
-GEO Apz 405: SPA Zmm 221: MA Hse 221: EN Zmm 221. -
-INF Eng 416: PH Gro 309: GE Bri 221: GRW Jan 221.
+GEO Apz 405: SPA Zmm 221: MA Hse 221: GRW Jan 221. -
+INF Eng 416: PH Gro 309: GE Bri 221: MU Jäg 217.
 
 KLASSE 7/4
 
-REe Weg 219, ETH Hrd 222: DE Bri 222: CH Jkl 413. GE Krs 222: -
+REe Weg 201, ETH Hrd 222: DE Bri 222: CH Jkl 413. GE Krs 222: -
 FR Die 405: SPO Dor TH2: DE Bri 222: -
 EN Wol 222: MA Fru 222: KU Ehn 114, INF1 Eng 416, INF2 Hoy 401: BIO Her 407. -
 FR Die 222: GEO Apz 405: PH Alt 307: -
-EN Wol 222: MA Fru 222: BIO Her 407. GRW Krs 111. MU Aug 201.
+EN Wol 222: MA Fru 222: MU Aug 201. GRW Krs 111. BIO Her 411.
 
 KLASSE 8/1
 
-MA Kol 208: PH Gro 307: REe Par 211, ETH Hrd 208: BIO Led 409. -
-SPA Käs 208: MU Jäg 217, KU Wol 114: GEO Kol 405: EN WbK 208. -
-P1 Led 413, P2 WeS 117, P3 Fru 309, P4 Hse 411: CH Jkl 413: DE Miß 208: GE Miß 208. -
-INF Für 416: EN WbK 208: SPO Zir TH2: GE Miß 108. -
-DE Miß 208: MA kol 208: GRW Krs 208. SPA Käs 208:
+DE Miß 208: PH Gro 307: REe Par 211, ETH Hrd 208: GEO Kol 405. -
+SPA Käs 208: MU Jäg 217, KU Wol 114: MA Kol 208: -
+P1 Led 413, P2 WeS 217, P3 Fru 309, P4 Hse 411: CH Jkl 413: MA Kol 208: BIO Led 409. -
+INF Für 416: EN WbK 208: SPO Zir TH2: GE Miß 208. -
+DE Miß 208: SPA Käs 208: GRW Krs 208. EN WbK 417. GE Miß 208.
 
 KLASSE 8/2
 
 MA Gro 210: DE SiS 210: SPA Käs 210: GRW Wei 120. -
 SPO Kol TH2: MU Jäg 217, KU Wol 114: EN Hld 210: -
-P1 Led 413, P2 WeS 117, P3 Fru 309, P4 Hse 411: GE Ker 210: EN Hld 210. GEO Jkl 405. MA Gro 210. -
-PH Gro 309: SPA Käs 210: MA Gro 210. DE SiS 210: -
-ETH Lin 210: CH Jkl 413: BIO Bur 409. INF Hoy 401:
+P1 Led 413, P2 WeS 217, P3 Fru 309, P4 Hse 411: GE Ker 110: EN Hld 210. MA Gro 210: -
+PH Gro 309: ETH Lin 210: GEO Jkl 405. DE SiS 210: -
+SPA Käs 413: CH Jkl 413: BIO Bur 409. INF Hoy 401:
 
 KLASSE 8/3
 
-INF Für 416: GE Ker 211: REe Par 211, ETH Hrd 208: BIO Bur 405. -
+INF Für 416: GE Ker 211: REe Par 211, ETH Hrd 208: BIO Bur 409. -
 CH Jkl 413: EN Sap 211: FR Die 211: -
-P1 Led 413, P2 WeS 117, P3 Fru 309, P4 Hse 411: DE Lhm 211: MA Apz 211: GEO Jkl 405. -
-SPO Kol TH1: PH Gro 309: DE Lhm 211: EN Sap 101. -
-FR Die 212: MA Apz 211: MU Jäg 217. KU Hor 112. GRW Wei 120.
+P1 Led 413, P2 WeS 217, P3 Fru 309, P4 Hse 411: DE Lhm 211: MA Apz 211: GEO Jkl 405. -
+SPO Kol TH1: PH Gro 309: DE Lhm 211: EN Sap 211. -
+FR Die 114: MA Apz 211: MU Jäg 217. KU Hor 112. GRW Wei 218.
 
 KLASSE 9/1
 
@@ -249,33 +250,33 @@ KLASSE 10/1
 
 BIO Gün 407: MA Hoy 108: MU Aug 201. SPO Hir TH2: -
 GRW Wei 120: SPA Zmm 208: MA Hoy 307: -
-GEO Mnh 405: EN WbK 110: GE Wei 218: SPA Zmm 120. -
-REe Pfl 208, ETH Hrd 211: KU Hor 112, INF1 Eng 416, INF2 Hoy 401: DE Miß 114: P1 Bur 413, P2 NeM 309, P3 Jkl 409, P4 Bri 110, P5 Aug 201: -
-CH Gün 413: DE Miß 218: PH Alt 307: EN WbK 212.
+MA Hoy 120: DE Miß 210: GE Wei 218: SPA Zmm 120. -
+REe Hop 112, ETH Hrd 121: KU Hor 112, INF1 Eng 416, INF2 Hoy 401: DE Miß 114: P1 Bur 413, P2 NeM 309, P3 Jkl 411, P4 Bri 110, P5 Aug 201: -
+CH Gün 413: GEO Mnh 212: PH Alt 307: EN WbK 212.
 
 KLASSE 10/2
 
-INF Hoy 401: GE Wei 218: EN Zmm 108. SPO Kol TH1: SPA Zmm 121. -
-MA Alt 318: BIO Gün 409: SPA Zmm 112. EN Zmm 120. -
-DE Miß 120: GEO Kol 405: MU Aug 201. PH Alt 307. -
-GRW Jan 219: DE Miß 211: KU Hor 112. SPA Zmm 316. P1 Bur 413, P2 NeM 309, P3 Jkl 409, P4 Bri 110, P5 Aug 201: -
-CH Hse 411: MA Alt 318: ETH Lin 211: EN Zmm 108.
+INF Hoy 401: GE Wei 218: EN Zmm 110. ETH Lin 111: SPA Zmm 121. -
+MA Alt 318: BIO Gün 409: EN Zmm 118. -
+SPO Kol 405: GEO Kol 405: PH Alt 307: MU Aug 201. -
+GRW Jan 219: DE Miß 118: KU Hor 112. SPA Zmm 316. P1 Bur 413, P2 NeM 309, P3 Jkl 411, P4 Bri 110, P5 Aug 201: -
+CH Hse 411: MA Alt 318: DE Miß 120: EN Zmm 121.
 
 KLASSE 10/3
 
 SPA Käs 316: DE Ehn 114: BIO Bur 409. KU Hor 112. INF Für 401: -
-ETH Lin 301: MA Alt 316: GEO Apz 212: -
-DE Ehn 208: PH Alt 307: BIO Bur 409. EN Sap 210. SPA Käs 316. -
-GRW Wei 212: CH Gün 411: EN Sap 217. MU Aug 201. P1 Bur 413, P2 NeM 309, P3 Jkl 409, P4 Bri 110, P5 Aug 201: -
-MA Alt 316: GE Ker 221: SPO Zir TH1: EN Sap 211.
+ETH Lin 301: MA Alt 316: GEO Apz 405: -
+DE Ehn 208: PH Alt 411: BIO Bur 409. EN Sap 222: -
+DE SiS : PH Alt 307: EN Sap 409. MU Aug 201. P1 Bur 413, P2 NeM 309, P3 Jkl 411, P4 Bri 110, P5 Aug 201: -
+MA Alt 316: GE Ker 221: SPA Käs 111. SPO Zir TH1:
 
 KLASSE 10/4
 
-MA Fru 301: CH Gün 411: BIO Jan 407: DE SiS 208: -
-GE Ker 221: FR Die 417: PH Alt 309: -
-DE SiS 110: GEO Apz 212: MA Fru 222: -
-REe Pfl 208, ETH Hrd 211: KU Hor 112, INF1 Eng 416, INF2 Hoy 401: MU Aug 201. EN WbK 219. P1 Bur 413, P2 NeM 309, P3 Jkl 409, P4 Bri 110, P5 Aug 201: -
-GRW Jan 221: SPO Zir TH2: EN WbK 417: FR Die 417.
+GRW Jan 221: CH Gün 411: EN WbK 417: MA Fru 301: -
+DE SiS 221: FR Die 417: PH Alt 309: -
+DE SiS 110: GEO Apz 212: GE Ker 110: -
+REe Hop 112, ETH Hrd 121: KU Hor 112, INF1 Eng 416, INF2 Hoy 401: MU Aug 201. EN WbK 219. P1 Bur 413, P2 NeM 309, P3 Jkl 411, P4 Bri 110, P5 Aug 201: -
+MA Fru 110: SPO Zir TH2: BIO Jan 407: FR Die 405.
 
 KLASSE JG11
 
@@ -295,36 +296,36 @@ CH1 Hse 411, EN1 Sco 108, GE1 Ker 110.
 -
 CH1 Hse 411, EN1 Sco 108, GE1 Ker 120:
 bio1 Led 409, geo1 Pet 212, grw2 Jan 110:
-DE1 SiS 222, DE2 WeS 212, MA1 Bag 208, MA2 Hoy 318
-en1 Sap 222, en2 Hir 110, fr1 Die 208 Die, spa1 Käs 111.
-eth2 Hrd 219, mu1 Jäg 217, spo3 Zir TH2:
+DE1 SiS 222, DE2 WeS 212, MA1 Bag 208, MA2 Hoy 318.
+en1 Sap 222, en2 Hir 110, fr1 Die 208 Die, spa1 Käs 217.
+eth2 Hrd 316, mu1 Jäg 217, spo3 Zir TH2:
 -
-DE1 SiS 219, DE2 WeS 118, MA1 bag 301, MA2 Hoy 318:
+DE1 SiS 211, DE2 WeS 118, MA1 bag 301, MA2 Hoy 318:
 ch2 Hse 411, en21 Hld 121, grw1 Wei 120, inf2 Für 416:
 de1 Sei 108, de2 Slz 121, ma1 Bar 316, ma2 Lhm 210:
 
 KLASSE JG12
 
-CH1 Bur 413, EN1 WbK 417, PH1 NeM 309, SPA1 Hld 211:
+CH1 Bur 413, EN1 WbK 417, GE1 Wei 101, PH1 NeM 309, SPA1 Hld 211:
 bio3 Led 409, bio4 Jan 407, ch1 Bur 413, spo3 Zir TH2:
 de1 Bri 219, de2 Ehn 319, ma1 Gro 318, ma2 Sco 316:
-ch2 Jkl 413, eth1 Dor 218, ge2 Ker 111:
+ch2 Jkl 413, ge2 Ker 121:
 -
 en21 Her 222, eth3 Hrd 210, grw2 Jan 211, inf3 Eng 417:
-CH1 Bur 411, EN1 WbK 219, GE1 Wei 405, PH1 NeM 309, SPA1 Hld 210:
-DE1 Sei 407, DE2 Lhm 319, MA1 Für 218, MA2 Fru 301:
+CH1 Bur 411, EN1 WbK 219, GE1 Wei 120, PH1 NeM 309, SPA1 Hld 210:
+DE1 Sei 407, DE2 Lhm 301, MA1 Für 218, MA2 Fru 301:
 -
-inf2 Dur 417, mu2 Aug 201, spo2 SmA TH2, spo4 Dor TH1:
+inf2 Dur 417, mu2 Aug 201, spo2 SmA TH2:
 de1 Bri 114, de2 Ehn 201, ma1 Gro 208, ma2 Sco 101:
-en1 Her 111, en2 WbK 212, fr1 Die 121, spa1 Zmm 120:
+en1 Her 111, en2 WbK 212, fr1 Die 121, spa1 Zmm 118:
 CH1 Bur 413, EN1 WbK 417, GE1 Wei 218, PH1 NeM 309, SPA1 Hld 211.
 -
 bio1 SmA 409, ge3 Jäg 210, grw3 Krs 417:
-DE1 Sei 101, DE2 Lhm 118, MA1 Für 319, MA2 Fru 222:
-en1 Her 111, en2 WbK 405, fr1 Die 121, spa1 Zmm 417.
+DE1 Sei 101, DE2 Lhm 211, MA1 Für 319, MA2 Fru 222:
+en1 Her 111, en2 WbK 121, fr1 Die 121, spa1 Zmm 417.
 ge1 Ker 212, geo1 Apz 405, inf1 Dur 417, ku2 Hor 112:
 -
 bio2 Led 407, geo3 Kol 405, ph1 NeM 307, ph2 Gro 309:
 eth2 Lin 210, geo2 Hoy 405, ku1 Hor 112, mu1 Aug 201:
 grw1 Wei 218, inf4 Für 416, ree1 Mrk 222, spo1 Mnh TH2:
-DE1 Sei 111, DE2 Lhm 118, MA1 Für 301, MA2 Fru 222.
+DE1 Sei 110, DE2 Lhm 210, MA1 Für 301, MA2 Fru 222.
