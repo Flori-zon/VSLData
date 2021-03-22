@@ -1,7 +1,7 @@
-<b>20.03.2021</b><br>
+<b>22.03.2021</b><br>
 <br>
-Die aktuell geltenden Stundenpläne werden in die App übernommen. Bis dies abgeschlossen ist, werden alte Stundenpläne als Platzhalter verwendet, dies betrifft Klassenstuffe 5 und 9. Bei Fehlern in anderen Stundenplänen bitte per Mail melden.<br>
+Die Stundenpläne in der Version vom 15.3. wurden vor kurzem übernommen. Bei Fehlern bitte per Mail melden. <br>
 <br>
-Für die Nutzung der Vertretungsplanfunktion müssen vorraussichtlich eigene Zugangsdaten verwendet werden. Diese können in den Einstellungen eingetragen werden (und werden lokal gespeichert).<br>
+Für die Nutzung der Vertretungsplanfunktion ab folgendem Jahr können eigene Zugangsdaten unter Optionen -> Einstellungen verwendet werden.<br>
 <br>
-LG, Entwickler Florian Dittrich
+euer Leiter für Schülerzufriedenheit, Florian Dittrich
