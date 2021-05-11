@@ -1,9 +1,11 @@
-<b>26.03.2021</b><br>
+<b>11.05.2021</b><br>
 <br>
-Die Stundenpläne vom Stand 15.3. wurden übernommen. Bei Fehlern bitte per Mail melden.<br>
+Stundenpläne vom Stand 15.03. wurden heute nochmal korrigiert, sagt mir falls da was nicht stimmt.<br>
 <br>
-Für das folgende Schuljahr könnte ich die App weiterhin betreiben. Wenn Interesse besteht, mich mit dem Schulplan auf dem Laufenden zu halten, auch bitte per Mail melden.<br>
+Für das folgende Schuljahr kann ich die App auch weiterhin betreiben. Dabei wäre es hilfreich, etwas Hilfe von Schülern des neuen Schuljahres zu bekommen, dafür einfach bei mir melden.<br>
 <br>
-Für die Nutzung der Vertretungsplanfunktion ab diesem Schuljahr können eigene Zugangsdaten unter Optionen -> Einstellungen verwendet werden.<br>
+Mit der neuen Beta 1.4 kommen viele Neuerungen (u.a. Mails), die könnt ihr bald im Beta-Programm und später als Update erhalten.<br>
 <br>
-euer Leiter für Schülerzufriedenheit, Florian Dittrich
+Nach wie vor wird das Anmelden mit Lernsax für viele Funktionen benötigt, speziell für die Mail-Funktion.<br>
+<br>
+euer Leiter für digitale Aufrüstung, <b>Florian Dittrich</b>
