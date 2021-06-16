@@ -1,13 +1,9 @@
 <b>06.06.2021</b><br>
 <br>
-Gerade habe ich noch einen kleinen Fehler (Klasse 9/4) an den Stundenplänen von 15.03. behoben, sagt mir falls da was nicht stimmt.<br>
-Speziell für den Profilunterricht empfehle ich, neben der Terminliste auch auf den lokalen Vertretungsplan zu achten, um sicher zu gehen.<br>
+Stundenpläne sind vom Stand 15.03. Falls etwas korrigiert werden muss, einfach Bescheid sagen.
 <br>
-Mit der neuen Beta 1.4 kommen viele Neuerungen (u.a. Mails), welche ihr im Beta-Programm und bald auch als Update im Google Play Store erhalten könnt.<br>
-Das Anmelden mit Lernsax wird darin für verschiedene Funktionen (Mails) benötigt.<br>
-Zur Zeit ist das Update nur in der Betaversion zu haben, nachdem alles gecheckt ist wird es für alle übernommen.<br>
-Ich werde auch nochmal eine kleine "Info" für die App im Schul-Discord machen. :D<br>
+Mit der neuen Beta 1.4 bekommt man unter anderem eine neue Bedienoberfläche und kann seine Mails von Lernsax angucken.<br>
 <br>
 Für das folgende Schuljahr kann ich die App auch weiterhin betreiben. Dabei wäre es hilfreich, etwas Hilfe von Schülern des neuen Schuljahres zu bekommen, dafür einfach bei mir melden.<br>
 <br>
-euer Leiter für mediale Massenvernichtung, <b>Florian Dittrich</b>
+euer Leiter für digitale Schülerzufriedenheit, <b>Florian Dittrich</b>
